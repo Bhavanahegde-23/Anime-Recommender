@@ -1,0 +1,7 @@
+2025-11-05 19:18:12 - INFO - Starting the Anime Recommendation Pipeline
+2025-11-05 19:18:12 - INFO - Data processed and saved to data/processed_anime.csv
+2025-11-05 19:18:12 - INFO - Use pytorch device_name: cpu
+2025-11-05 19:18:12 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-05 19:18:15 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-11-05 19:18:24 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-05 19:18:40 - INFO - Vector store built and persisted successfully

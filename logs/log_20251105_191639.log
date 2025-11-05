@@ -1,0 +1,2 @@
+2025-11-05 19:16:39 - INFO - Starting the Anime Recommendation Pipeline
+2025-11-05 19:16:39 - ERROR - Error in building the pipeline: read_csv() got an unexpected keyword argument 'error_bad_lines'

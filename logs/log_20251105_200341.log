@@ -1,0 +1,24 @@
+2025-11-05 20:03:42 - INFO - Initializing Recommandation pipeline
+2025-11-05 20:03:42 - INFO - Use pytorch device_name: cpu
+2025-11-05 20:03:42 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-05 20:03:46 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-05 20:03:47 - INFO - Recommandation pipeline initialized successfully
+2025-11-05 20:18:48 - INFO - Getting recommendation for query
+2025-11-05 20:18:49 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 20:18:49 - INFO - Recommendation retrieved successfully
+2025-11-05 20:22:59 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-45012' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at c:\Users\holla\Desktop\MyProjects\.venv\Lib\site-packages\tornado\websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "c:\Users\holla\Desktop\MyProjects\.venv\Lib\site-packages\tornado\websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\holla\Desktop\MyProjects\.venv\Lib\site-packages\tornado\websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+2025-11-05 20:23:15 - INFO - Getting recommendation for query
+2025-11-05 20:23:16 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 20:23:16 - INFO - Recommendation retrieved successfully

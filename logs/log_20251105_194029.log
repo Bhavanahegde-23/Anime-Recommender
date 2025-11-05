@@ -1,0 +1,29 @@
+2025-11-05 19:40:29 - INFO - Initializing Recommandation pipeline
+2025-11-05 19:40:29 - INFO - Use pytorch device_name: cpu
+2025-11-05 19:40:29 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-05 19:40:35 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-05 19:40:37 - INFO - Recommandation pipeline initialized successfully
+2025-11-05 19:41:24 - INFO - Getting recommendation for query
+2025-11-05 19:41:25 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 19:41:25 - INFO - Recommendation retrieved successfully
+2025-11-05 19:41:57 - INFO - Getting recommendation for query
+2025-11-05 19:41:57 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 19:41:57 - INFO - Recommendation retrieved successfully
+2025-11-05 19:42:17 - INFO - Getting recommendation for query
+2025-11-05 19:42:18 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 19:42:18 - INFO - Recommendation retrieved successfully
+2025-11-05 19:42:44 - INFO - Getting recommendation for query
+2025-11-05 19:42:44 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 19:42:45 - INFO - Recommendation retrieved successfully
+2025-11-05 19:45:21 - INFO - Getting recommendation for query
+2025-11-05 19:45:21 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 19:45:21 - INFO - Recommendation retrieved successfully
+2025-11-05 19:46:27 - INFO - Getting recommendation for query
+2025-11-05 19:46:28 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 19:46:28 - INFO - Recommendation retrieved successfully
+2025-11-05 19:52:03 - INFO - Getting recommendation for query
+2025-11-05 19:52:04 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 19:52:04 - INFO - Recommendation retrieved successfully
+2025-11-05 19:54:38 - INFO - Getting recommendation for query
+2025-11-05 19:54:39 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 19:54:39 - INFO - Recommendation retrieved successfully

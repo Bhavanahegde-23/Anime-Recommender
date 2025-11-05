@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: AnimeRecommendation
+Version: 0.1
+Author: Bhavana
+Requires-Dist: langchain
+Requires-Dist: pandas
+Requires-Dist: langchain-community
+Requires-Dist: langchain-groq
+Requires-Dist: chromadb
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: sentence-transformers
+Requires-Dist: langchain-huggingface
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: requires-dist

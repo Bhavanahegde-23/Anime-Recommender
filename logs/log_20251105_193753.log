@@ -1,0 +1,4 @@
+2025-11-05 19:37:53 - INFO - Initializing Recommandation pipeline
+2025-11-05 19:37:53 - ERROR - Error initializing Recommandation pipeline: VectorStore.__init__() got an unexpected keyword argument 'csv_path'
+2025-11-05 19:39:49 - INFO - Initializing Recommandation pipeline
+2025-11-05 19:39:49 - ERROR - Error initializing Recommandation pipeline: VectorStore.__init__() got an unexpected keyword argument 'csv_path'
