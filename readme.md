@@ -1,10 +1,26 @@
-#For activating .venv (should find the permanent soution)
-- Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-#activate the venv
--  & C:/Users/holla/Desktop/MyProjects/.venv/Scripts/Activate.ps1
-#Run setup file for initial setup
-- pip install -e .
-#Run buildpipeline for creating the db
-- python .\pipeline\build_pipeline.py
-#Run the application
-- streamlit run .\app\app.py
+# Anime Recommender
+
+A simple Anime Recommendation system that suggests anime based on user queries .
+
+## Installation
+
+```bash
+pip install -e .
+```
+## Create Db
+
+```bash
+python .\pipeline\build_pipeline.py
+```
+
+## Run Application
+
+```bash
+streamlit run .\app\app.py
+```
+
+## Usage
+
+- Enter query for getting anime
+- Ex : Recommend me anime similar to naruto
+
