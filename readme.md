@@ -26,5 +26,3 @@ streamlit run .\app\app.py
   ```bash
   Ex : Recommend me anime similar to naruto
 ```
-
-
