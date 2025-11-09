@@ -22,5 +22,9 @@ streamlit run .\app\app.py
 ## Usage
 
 - Enter query for getting anime
-- Ex : Recommend me anime similar to naruto
+  
+  ```bash
+  Ex : Recommend me anime similar to naruto
+```
+
 
